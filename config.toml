@@ -1,0 +1,113 @@
+baseURL = "https://www.rbrunellelaw.com/"
+languageCode = "en-us"
+title = "Law Offices of Roger Brunelle Jr | Attorey at Law"
+theme = "timer-hugo"
+enableRobotsTXT = true
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Call"
+url     = "/"
+weight  = 1
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Personal Injury"
+url     = "service"
+weight  = 3
+[[menu.main]]
+name    = "Criminal Defense"
+url     = "gallery"
+weight  = 4
+[[menu.main]]
+name    = "OUI/DUI"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Restraining Orders"
+url     = "blog"
+weight  = 6
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 7
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "Roger is Maine's Premier Attorney"
+description = "I take cases I believe in for people I care about. Each case that I select is handled with extreme care and given the amount of time it needs and deserves. What sets me apart is not what I do, but how I do it."
+# button
+btn     = true
+btnText = "Schedule A Free Consultation"
+btnURL  = "#"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Fights for the little guy"
+[[params.banner.flipText]]
+title   = "Gets to know the client"
+[[params.banner.flipText]]
+title   = "Cases handled with extreme care"
+[[params.banner.flipText]]
+title   = "Impecible track record"
+[[params.banner.flipText]]
+title   = "Personal Injury"
+[[params.banner.flipText]]
+title   = "Criminal Defense"
+[[params.banner.flipText]]
+title   = "DUI/OUI"
+[[params.banner.flipText]]
+title   = "Retraining Orders"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "Why You Should Hire Roger"
+content = "Roger understands that when people hire an attorney, they are often experiencing very stressful situations. People need someone who cares about them and doesn't simply go through the motions. For that reason, Roger makes sure his clients not only receive high-quality legal services, but also the reassurance they deserve."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Fights for the Little Guy"
+content = "I take pride in fighting for the little guy. I take cases I believe in for people I care about. Each case that I select is handled with extreme care and given the amount of time it needs and deserves. What sets me apart is not what I do, but how I do it. I have the flexibility to choose my cases and spend the time to get to know my clients."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Recent Results"
+subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
