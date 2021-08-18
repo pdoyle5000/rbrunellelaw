@@ -9,7 +9,8 @@ enableRobotsTXT = true
 # Navbar Menus
 [[menu.main]]
 name    = "Call"
-url     = "/"
+pre     = "tel"
+url     = "2074096400"
 weight  = 1
 [[menu.main]]
 name    = "About"
@@ -42,8 +43,8 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "Roger Brunelle Maine's Premier Attorney"
+author = "Roger Brunelle"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -54,7 +55,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "Roger is Maine's Premier Attorney"
-description = "I take cases I believe in for people I care about. Each case that I select is handled with extreme care and given the amount of time it needs and deserves. What sets me apart is not what I do, but how I do it."
+description = "I take cases I believe in for people I care about.<br> Each case that I select is handled with extreme care.<br>  It is given the amount of time it needs and deserves.<br> What sets me apart is not what I do, but <b>how I do it.</b>"
 # button
 btn     = true
 btnText = "Schedule A Free Consultation"

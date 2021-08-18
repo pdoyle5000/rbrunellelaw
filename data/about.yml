@@ -1,20 +1,51 @@
 enable  : true
-title   : Why We are Different
+title   : Roger's Attorney Profile
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Attorney Roger Brunelle has successfully represented clients in complex criminal and multi-million dollar personal injury matters.  He left a prominent trial firm to start his own law practice, where he will be able to provide the personal attention to clients that they deserve.
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+  Roger started his legal career in the United States Army, where he represented hundreds of soldiers as an officer in the Judge Advocate General’s Corps (JAG).  He is a skilled and sophisticated litigator whose dynamism benefits his clients in both civil and criminal matters, in state and federal court.
+  <br>
+  <br>
+  In a legal environment where lawyers often spend more time in their office, rather than the courtroom, Attorney Roger Brunelle distinguishes himself.  He is often found in court, pounding the podium on behalf of his clients.  Although Attorney Brunelle understands the benefits of compromise, his mantra is, “I am not afraid to try a case.”
+  <br>
+  <br>
+  <b>Bar Admissions</b>
+  <br>
+  * Maine
+  <br>
+  * Massachusetts
+  <br>
+  * Wisconsin
+  <br>
+  <br>
+  <b>Education</b>
+  <br>
+  University of Connecticut School of Law, JD, 1998
+  <br>
+  University of Leiden School of Law, The Netherlands
+  <br>
+  College of the Holy Cross, BA, 1995
+  <br>
 image   : images/about/about-company.jpg
 aboutItem:
-  - title : Why Choose Us
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+  - title : Civil Practice
+    description: >
+      Roger’s civil practice specialties include personal injury and wrongful death matters, automobile and trucking accidents, consumer and industrial machinery accidents, electrocution, fire and explosions, firearms and BB guns, premises liability and property damage claims, commercial and residential construction defects, and attorney malpractice actions.
 
-  - title : What You Get
+  - title : Criminal Practice
+    description: |
+      Roger’s criminal practice includes felony and misdemeanor matters. He is frequently sought out to handle the most sensitive and complex criminal issues. Representing corporate and individual criminal defendants in trial and post-trial matters, Roger specializes in white collar and general criminal offenses, pretrial confinement hearings, restraining order proceedings, sentencing hearings, and criminal investigations. His practice also includes active coordination and negotiation with the U.S. Attorney, Attorney General, District Attorney, and federal and state law enforcement agencies.
+  - title : Professional Affiliations
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
-
-  - title : Meet The Energy
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      American Bar Association
+      <br>
+      Maine State Bar Association
+      <br>
+      Massachusetts State Bar Association
+      <br>
+      Maine Association of Criminal Defense Lawyers
+      <br>
+      National Association of Criminal Defense Lawyers
+      <br>
+      Maine Federal Criminal Defense Appointments for the U.S. District Court
