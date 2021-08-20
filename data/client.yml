@@ -1,6 +1,6 @@
 enable  : true
-title   : OUR HAPPY CLIENTS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+title   : Testimonials From Clients
+subtitle: Recent client google reviews <a href="https://www.google.com/search?q=roger+brunelle+law&oq=roger+bru&aqs=chrome.0.69i59l3j69i57j46i512l2j69i61l2.1296j0j4&sourceid=chrome&ie=UTF-8#lrd=0x4cb29c14c0ff6161:0x8c3aa6a6dc71f1d7,1,,,", target="_blank">See More.</a>
 clientsLogo:
   - image : images/clients/logo-1.jpg
   - image : images/clients/logo-2.jpg
@@ -12,3 +12,9 @@ clientsLogo:
   - image : images/clients/logo-3.jpg
   - image : images/clients/logo-4.jpg
   - image : images/clients/logo-5.jpg
+googleReviews:
+  - review: <b>Codys Creations</b> - Roger was fast to respond and answered any questions I had. He made things too easy for my family and I. Would definitely recommend!!!
+  - review: <b>Vicki Collins</b> - Roger is knowledgeable, hard working, very down-to-earth and extremely caring. He treated our 11 year old with care, courtesy and concern. And rightfully so,  he treated him as the young man that he is. He treated our entire family like... well, family.
+  - review: <b>Michael Roy</b> - As a client of Roger Brunelle, my experience with him was better than I hoped for. I trusted his abilities throughout the entire process and he was able to secure me a deal which avoided me jail time. I can't recommend him enough.
+  - review: <b>Kevin McGovern</b> - Roger was very professional and helped me navigate through my zoom court date! He has great people skills and worked hard to get me the best end result possible. I would recommend  him to anyone who is looking for a great lawyer! Thanks for all your help Roger!
+  - review: <b>Patrick Clark</b> - Roger was a class act and great to work with dealing with a situation. I wish nothing but the best for him and his business.

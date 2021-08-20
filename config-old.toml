@@ -18,19 +18,19 @@ url     = "about"
 weight  = 2
 [[menu.main]]
 name    = "Personal Injury"
-url     = "#"
+url     = "service"
 weight  = 3
 [[menu.main]]
 name    = "Criminal Defense"
-url     = "#"
+url     = "gallery"
 weight  = 4
 [[menu.main]]
 name    = "OUI/DUI"
-url     = "#"
+url     = "blog"
 weight  = 5
 [[menu.main]]
 name    = "Restraining Orders"
-url     = "#"
+url     = "blog"
 weight  = 6
 [[menu.main]]
 name    = "Contact"
